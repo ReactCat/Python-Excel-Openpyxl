@@ -1,5 +1,5 @@
 # Python-Excel-Openpyxl
-This script uses the openpyxl library to integrate python with an excel worksheet  
+This python script uses the openpyxl library to integrate python with an excel worksheet  
 -python version = 3.8.8
 -pipenv used to create a virtual environment
 -excel workseet for data
