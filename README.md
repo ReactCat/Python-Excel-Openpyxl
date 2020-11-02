@@ -9,5 +9,5 @@ Cell data comes in as a python tuple object.
 A for loop is used to get the cell values from the tuple object.
 The values are then appended to a new python list object. 
 Python max, min, len, sum functions are used to perform mathematical operations on the list.
-The new values are exported or added to the worksheet.
+The new values are displayed on the worksheet.
 
